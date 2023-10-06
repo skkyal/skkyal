@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shlok Kumar Kyal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently worked on [Babelfish](https://github.com/babelfish-for-postgresql/babelfish_extensions/)
+- 🔭 I’m currently contribute to [Postgres Open Source](https://github.com/postgres/postgres)
+
+- 🔭 I have contibuted to [Babelfish] (https://github.com/babelfish-for-postgresql/babelfish_extensions)
 
 - 📫 How to reach me **shlok.kyal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17RxS7qv1sqouw-Nk6AETfO01HdE1B5GZ/view?usp=sharing](https://drive.google.com/file/d/17RxS7qv1sqouw-Nk6AETfO01HdE1B5GZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17RxS7qv1sqouw-Nk6AETfO01HdE1B5GZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
