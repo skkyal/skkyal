@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shlok Kumar Kyal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently contribute to [Postgres Open Source](https://github.com/postgres/postgres)
+<!-- - 🔭 I am currently contributing to [Postgres Open Source](https://github.com/postgres/postgres) -->
 
-- 🔭 I have contibuted to [Babelfish] (https://github.com/babelfish-for-postgresql/babelfish_extensions)
+- 🔭 I have contibuted to [Babelfish](https://github.com/babelfish-for-postgresql/babelfish_extensions)
 
 - 📫 How to reach me **shlok.kyal@gmail.com**
 
