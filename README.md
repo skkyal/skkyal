@@ -1,6 +1,6 @@
 # Shlok Kumar Kyal
 
-I am a software engineer from India with over 3 years of experience, mainly in PostgreSQL internals.
+I am a software engineer from India with 4 years of experience, mainly in PostgreSQL internals.
 
 I am currently working at Fujitsu as part of the Open Source PostgreSQL Team.  
 Previously, I worked at AWS as part of the Aurora PostgreSQL Team.
@@ -28,7 +28,9 @@ My current interest is in database internals.
 
 ### Other Stuffs
 
-- [How to Upgrade Replication Clusters without Downtime – PGConf India 2025](https://www.pgconf.in/conferences/pgconfin2025/program/proposals/864) [Talk]  
+- [The Life of a Tuple in Logical Replication - PGConf Germany 2026](https://www.postgresql.fastware.com/blog/topic/pgconf-germany) [Talk]
+- [The Life of a Tuple in Logical Replication - PGConf India 2026](https://pgconf.in/pgconfin/pgconf-india-2026/schedule/110) [Talk]
+- [How to Upgrade Replication Clusters without Downtime – PGConf India 2025](https://pgconf.in/pgconfin/pgconf-india-2025/schedule/411) [Talk]  
 - [Upgrade and High Availability of Clusters Using Logical Replication – PgBLR 2nd Meetup](https://drive.google.com/file/d/11fzN83bGFkScnlhkxuEC0ru1_hepSlGY/view) [Talk]  
 - [An Introduction to PostgreSQL: pg_createsubscriber](https://www.postgresql.fastware.com/blog/an-introduction-to-postgresql-pg-createsubscriber) [Blog]  
 - [PostgreSQL Person of the Week](https://postgresql.life/post/shlok_kumar_kyal/) [Interview]
